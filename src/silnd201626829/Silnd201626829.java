@@ -15,7 +15,10 @@ public class Silnd201626829 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int a=12;
+	int b=55;
+	int result=a+b;
+	System.out.println("Sum is "+result);
     }
     
 }
